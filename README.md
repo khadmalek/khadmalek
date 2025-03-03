@@ -12,6 +12,18 @@ Je suis une développeuse en reconversion avec une passion pour l'intelligence a
 
 🎓 Formation en IA et Data Science chez Simplon.
 
+🛠️ Compétences
+
+Langages : Python (Pandas, NumPy, Scikit-Learn), SQL
+
+Frameworks : Django, Streamlit
+
+Machine Learning : CatBoost, Pipelines, Explicabilité des modèles (SHAP values)
+
+Bases de données : SQLModel
+
+Déploiement & Versioning : Git, GitHub
+
 
 
 <!---
